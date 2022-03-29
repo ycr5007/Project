@@ -5,5 +5,6 @@ public class HiHi {
 		
 		System.out.println("배고파요");
 		
+		System.out.println("나도 배고파요");
 	}
 }
