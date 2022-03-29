@@ -11,6 +11,6 @@ public class Hello {
 		System.out.println("Hello Java");
 		System.out.println("배고파요");
 		System.out.println("밥 맛있게 드세요~!");
-
+		
 	}
 }
