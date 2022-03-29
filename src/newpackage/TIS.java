@@ -9,5 +9,6 @@ public class TIS {
 	
 	public static void so(	) {
 		System.out.println("이건 소스일까 ?");
+		System.out.println("누구 거?");
 	}
 }
